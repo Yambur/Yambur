@@ -33,15 +33,16 @@
     <td><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /></td>
   </tr>
   <tr>
+    <td> Front-end </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /></td>
+    
+  </tr>
+  <tr>
     <td> ОС </td>
     <td><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" /></td>
     <td><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" /></td>
-  </tr>
-  <tr>
-    <td> Front-end </td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="linux logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="ubuntu logo" /></td>
-    
+    <td><img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" /></td>
   </tr>
   <tr>
     <td> Дополнительно </td>
