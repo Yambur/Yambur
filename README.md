@@ -22,12 +22,15 @@
   <tr>
     <td>Язык программирования</td>
     <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></td>
+  </tr>
+  <tr>
+    <td>Фраемворки</td>
     <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="django logo" /></td>
   </tr>
   <tr>
     <td>База данных</td>
     <td><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /></td>
   </tr>
   <tr>
     <td> ОС </td>
@@ -44,7 +47,7 @@
     <td><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></td>
     <td><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></td>
     <td><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></td>
-    
+    <td><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" /></td>
   </tr>
   <!-- Добавьте остальные строки для остальных технологий -->
 </table>
