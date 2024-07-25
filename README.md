@@ -24,7 +24,7 @@
     <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></td>
   </tr>
   <tr>
-    <td>Фраемворки</td>
+    <td>Фремворки</td>
     <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" /></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="django logo" /></td>
   </tr>
