@@ -1,8 +1,8 @@
 
-<h2 align="center">Предпочитаемый способ связи</h2>
+<h2 align="center">Предпочитаемый способ связи:</h2>
 
 ###
-
+<h4 align="center"> Telegram </h4>
 <div align="center">
   <a href="https://t.me/Bargestor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -10,6 +10,20 @@
 </div>
 
 ___
+<h4 align="center"> @gmail.com </h4>
+<div align="center">
+  <a href="mailto:bargestor92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=DD4B39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+___
+<h4 align="center"> @mail.ru </h4>
+<div align="center">
+  <a href="mailto:DIZz92@mail.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=DD4B39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
