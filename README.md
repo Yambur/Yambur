@@ -26,7 +26,6 @@
   <tr>
     <td>Фреймворки</td>
     <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="django logo" /></td>
   </tr>
   <tr>
     <td>База данных</td>
