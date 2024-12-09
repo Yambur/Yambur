@@ -26,7 +26,6 @@
   <tr>
     <td>Фреймворки</td>
     <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/68694599?s=200&v=4" alt="aiogram" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>База данных</td>
@@ -48,7 +47,7 @@
   <tr>
     <td> Дополнительно </td>
     <td><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="40" alt="git logo" /></td>
     <td><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></td>
     
   </tr>
