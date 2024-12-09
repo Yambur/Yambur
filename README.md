@@ -26,7 +26,7 @@
   <tr>
     <td>Фреймворки</td>
     <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=django" height="40" alt="aiogram logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aiogram" height="40" alt="aiogram logo" /></td>
   </tr>
   <tr>
     <td>База данных</td>
